@@ -1,0 +1,35 @@
+commit 5ebbc86c12873c0f2eaa455a8f61f48aee76e554
+Author: Hernán <minohernan@gmail.com>
+Date:   Wed Nov 19 18:33:49 2014 -0300
+
+    Agregue la pagina
+
+commit eca938b985c3940d1a6c839226fa40923f0159ae
+Author: Hernán <minohernan@gmail.com>
+Date:   Wed Nov 19 18:31:18 2014 -0300
+
+    Presentacion 4to commit
+
+commit 6c5bfa0d3a78840ed2d7eee73fded3551b36709d
+Author: Hernán <minohernan@gmail.com>
+Date:   Wed Nov 19 18:29:44 2014 -0300
+
+    Actualize redes Sociales
+
+commit 58a68a3e375e687ef59c7338376faddd2023c99f
+Author: Hernán <minohernan@gmail.com>
+Date:   Wed Nov 19 18:25:18 2014 -0300
+
+    Actualize Perfil
+
+commit 89533b33d3708de63747b9d8f59d936b2b4d7fe8
+Author: Hernán <minohernan@gmail.com>
+Date:   Wed Nov 19 18:21:52 2014 -0300
+
+    Actualize foto de perfil y nombre
+
+commit cf3cbf79554865492320116cc8d4ce505f7a3a90
+Author: Hernán <minohernan@gmail.com>
+Date:   Wed Nov 19 18:12:16 2014 -0300
+
+    Estos son los archivos base de mi portafolio

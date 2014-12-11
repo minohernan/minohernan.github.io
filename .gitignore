@@ -1,0 +1,19 @@
+#Entorno PhpStorm
+.idea/
+
+# Ignorar archivos de texto
+.doc
+.docx
+.txt
+
+#Carpetas de Symfony
+app/cache/*
+app/logs/*
+vendor/*
+web/*
+
+# sublimetext
+proyecto/*
+/*.sublime-project
+*.sublime-workspace
+
